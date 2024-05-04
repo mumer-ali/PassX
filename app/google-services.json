@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1056062181157",
+    "project_id": "passx-65051",
+    "storage_bucket": "passx-65051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056062181157:android:9c4c312b3200d7678414cc",
+        "android_client_info": {
+          "package_name": "com.example.passx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056062181157-eu15ame7a0lu8ecl3j9nu5l9ddrvos8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ8pJTjLFaWceQvArldP2BhYgooHi0o_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056062181157-eu15ame7a0lu8ecl3j9nu5l9ddrvos8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
